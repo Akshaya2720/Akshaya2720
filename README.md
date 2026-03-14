@@ -29,15 +29,6 @@ I enjoy working at the intersection of **AI research and product development**, 
 
 ---
 
-### 🗺️ AreoMap
-*A smart mapping and visualization system for spatial data analysis and intelligent navigation.*
-
-**Focus Areas:**
-- Geospatial data processing
-- Intelligent map-based insights
-- Real-world location intelligence
-
----
 
 ### ☀️ EcoInnovators – Solar Audit
 *An AI-based rooftop solar verification and audit system for sustainable energy governance.*
