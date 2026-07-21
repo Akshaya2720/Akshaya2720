@@ -1,6 +1,6 @@
 # Building Intelligent Systems That Work in the Real World
 
-I am a **3rd-year Artificial Intelligence and Data Science student** driven by a deep interest in **Generative AI, Quantum Computing, and offline-first intelligent systems**. My focus is on designing AI solutions that are **practical, privacy-aware, and accessible**, especially in environments with limited connectivity and resources.
+I am a **4th-year Artificial Intelligence and Data Science student** driven by a deep interest in **Generative AI, Quantum Computing, and offline-first intelligent systems**. My focus is on designing AI solutions that are **practical, privacy-aware, and accessible**, especially in environments with limited connectivity and resources.
 
 I enjoy working at the intersection of **AI research and product development**, transforming complex ideas into usable software that solves real problems.
 
