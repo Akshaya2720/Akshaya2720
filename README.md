@@ -20,12 +20,11 @@ I enjoy working at the intersection of **AI research and product development**, 
 ## 🚀 Projects
 
 ### 🧠 3Ducation
-*An AI-powered interactive learning platform designed to improve conceptual understanding through 3D visualization.*
+*An interactive learning platform designed to improve conceptual understanding through 3D visualization.*
 
 **Focus Areas:**
 - Visual learning for complex concepts
 - Student-friendly, immersive education
-- AI-assisted content generation
 
 ---
 
@@ -68,11 +67,9 @@ I enjoy working at the intersection of **AI research and product development**, 
 - TensorFlow  
 - PyTorch  
 - scikit-learn  
-- Hugging Face  
 
 ### 💻 Tools & Platforms
 - Git & GitHub  
-- Linux  
 - VS Code  
 
 ---
@@ -83,6 +80,7 @@ I enjoy working at the intersection of **AI research and product development**, 
 - Generative AI applications
 - Research-oriented AI projects
 - Sustainable and socially impactful technology
+- Educational field AI project development
 
 ---
 
