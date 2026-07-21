@@ -17,7 +17,7 @@ I enjoy working at the intersection of **AI research and product development**, 
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 ### 🧠 3Ducation
 *An AI-powered interactive learning platform designed to improve conceptual understanding through 3D visualization.*
