@@ -244,7 +244,7 @@ Tools:
 
 # 🌐 Connect
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/Akshaya2720">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
