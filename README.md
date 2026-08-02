@@ -1,116 +1,200 @@
 <div align="center">
 
-# Akshaya R
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=AKSHAYA%20R&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=650&lines=%3E+initializing+AI+engine...;%3E+loading+machine+learning+models...;%3E+starting+agentic+systems...;%3E+ready+to+build+the+future." />
+<br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Neural+Core+Initialized...;Loading+Machine+Learning+Models...;Connecting+Large+Language+Models...;Launching+Agentic+AI+Systems...;Status+%3A+ONLINE"/>
+
+<br>
+
+<a href="https://github.com/Akshaya2720">
+<img src="https://img.shields.io/github/followers/Akshaya2720?logo=github&style=for-the-badge&color=181717"/>
+</a>
+
+<a href="https://github.com/Akshaya2720">
+<img src="https://img.shields.io/github/stars/Akshaya2720?affiliations=OWNER&style=for-the-badge&color=blue"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akshaya-r-92a062298/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Akshaya2720&style=for-the-badge&color=blue"/>
 
 </div>
 
-```python
-class AkshayaR:
-    """
-    AI Engineer in progress.
-    Building intelligent applications
-    that solve real-world problems.
-    """
+---
 
-    role = "AI & Data Science Student"
+# AI SYSTEM STATUS
 
-    focus = [
-        "Machine Learning",
-        "Deep Learning",
-        "Computer Vision",
-        "Natural Language Processing",
-        "Agentic AI",
-        "Generative AI"
-    ]
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    languages = [
-        "Python",
-        "JavaScript",
-        "TypeScript",
-        "Java",
-        "C",
-        "SQL"
-    ]
+Developer      :: Akshaya R
 
-    frameworks = [
-        "PyTorch",
-        "TensorFlow",
-        "FastAPI",
-        "React",
-        "Flutter",
-        "Django"
-    ]
+Role           :: AI Engineer
 
-    tools = [
-        "Git",
-        "Docker",
-        "Linux",
-        "Firebase",
-        "MySQL",
-        "PostgreSQL"
-    ]
+Education      :: B.Tech AI & Data Science
 
-    projects = [
-        "AI Teaching Assistant",
-        "Voice AI Agents",
-        "Computer Vision Systems",
-        "LLM Applications",
-        "RAG Pipelines",
-        "Automation Tools"
-    ]
+Status         :: BUILDING
 
-    learning = [
-        "Multi-Agent Systems",
-        "LLM Fine-Tuning",
-        "AI Infrastructure",
-        "MLOps"
-    ]
+Current Mode   :: Learning • Building • Shipping
 
-    def mission(self):
-        return "Build AI that is practical, accessible, and impactful."
-
-
-me = AkshayaR()
-
-print(me.mission())
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+---
+
+# SYSTEM MODULES
+
+```yaml
+AI:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - NLP
+  - LLMs
+  - Agentic AI
+
+Software:
+  - FastAPI
+  - Django
+  - React
+  - Flutter
+
+Databases:
+  - MySQL
+  - PostgreSQL
+  - Firebase
+
+Deployment:
+  - Docker
+  - Linux
+  - GitHub
+```
+
+---
+
+# TECH STACK
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,django,react,nextjs,nodejs,flutter,mysql,postgres,firebase,docker,git,linux,vscode"/>
+
+</p>
+
+---
+
+# CURRENT MISSION
+
+```text
+[✓] AI Teaching Platform
+
+[✓] Voice AI Assistant
+
+[✓] Agentic AI Applications
+
+[✓] Computer Vision Projects
+
+[✓] RAG Pipelines
+
+[✓] AI Automation
+
+[ ] Startup
+```
+
+---
+
+# PROJECT MAP
+
+```text
+                    AI
+
+          ┌─────────┼─────────┐
+
+      Vision      NLP      Agents
+
+         │          │          │
+
+ DeepSolar    LitLoom    AI Tutor
+
+         │          │          │
+
+      Detection  Analysis  Voice AI
+
+```
+
+---
+
+# LIVE ANALYTICS
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshaya2720&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya2720&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaya2720&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="65%" src="https://streak-stats.demolab.com?user=Akshaya2720&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Akshaya2720&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# CONNECT
+
+<p align="center">
+
+<a href="https://github.com/Akshaya2720">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akshaya-r-92a062298/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-## Tech Stack
+```
+while(alive){
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,django,react,flutter,nodejs,mysql,postgres,firebase,docker,git,linux,vscode"/>
+    Learn();
 
----
+    Build();
 
-## Current Status
+    Improve();
 
-🧠 Building AI-powered applications
+    Repeat();
 
-🚀 Exploring Agentic AI & LLMs
-
-👁️ Developing Computer Vision projects
-
-📚 Learning scalable AI systems
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya-r-92a062298/))
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayar9702@gmail.com)
+}
+```
 
 </div>
 
----
-
-> *"Building intelligent systems that solve real problems, one model at a time."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2C5364,50:203A43,100:0F2027"/>
