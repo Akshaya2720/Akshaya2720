@@ -241,21 +241,6 @@ Tools:
 
 ---
 
-# 📊 GitHub Insights
-
-<p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshaya2720&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshaya2720&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-
-
----
 
 # 🌐 Connect
 
