@@ -127,39 +127,173 @@ Deployment:
 
 ---
 
-# LIVE ANALYTICS
+# PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Teaching Platform
+
+AI-powered education platform that explains concepts using stories, quizzes, multilingual support and voice interaction.
+
+**Tech**
+
+`Python` `FastAPI` `React` `LLMs`
+
+</td>
+
+<td width="50%">
+
+### 🎙️ AI Voice Assistant
+
+Real-time AI assistant capable of answering questions during live conversations using LLMs.
+
+**Tech**
+
+`Python` `Whisper` `Gemini` `FastAPI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👁️ DeepSolar Guard
+
+Computer Vision system that detects rooftop solar panels using satellite imagery.
+
+**Tech**
+
+`YOLO` `OpenCV` `PyTorch`
+
+</td>
+
+<td width="50%">
+
+### 📚 LitLoom
+
+NLP platform for literary analysis, sentiment analysis, PoS tagging and text understanding.
+
+**Tech**
+
+`Transformers` `NLTK` `Python`
+
+</td>
+</tr>
+</table>
+
+---
+
+# AI DASHBOARD
+
+```text
+╔════════════════════════════════════════════════════╗
+║                AI COMMAND CENTER                  ║
+╠════════════════════════════════════════════════════╣
+║ Machine Learning          ████████████████ 100%   ║
+║ Deep Learning             ██████████████░  90%    ║
+║ Computer Vision           █████████████░░  85%    ║
+║ NLP                       ████████████░░░  80%    ║
+║ Agentic AI                ███████████░░░░  75%    ║
+║ Flutter                   █████████░░░░░░  65%    ║
+╚════════════════════════════════════════════════════╝
+```
+
+---
+
+# DEVELOPMENT ENVIRONMENT
+
+```yaml
+OS:
+  - Linux
+  - Windows
+
+Languages:
+  - Python
+  - JavaScript
+  - TypeScript
+  - SQL
+
+Frameworks:
+  - FastAPI
+  - Django
+  - React
+  - Flutter
+
+AI:
+  - TensorFlow
+  - PyTorch
+  - OpenCV
+  - HuggingFace
+  - LangChain
+
+Tools:
+  - Docker
+  - Git
+  - VS Code
+  - Firebase
+```
+
+---
+
+# GITHUB ANALYTICS
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshaya2720&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshaya2720&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya2720&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya2720&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
+# CONTRIBUTION STREAK
+
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaya2720&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=Akshaya2720&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
+# ACHIEVEMENTS
+
 <p align="center">
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Akshaya2720&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Akshaya2720&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=4"/>
 
 </p>
 
 ---
 
+# RECENT ACTIVITY
+
 <p align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Akshaya2720&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaya2720&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+---
+
+# CURRENTLY LEARNING
+
+```text
+🧠 Agentic AI
+
+🧠 Multi-Agent Systems
+
+🧠 Large Language Models
+
+🧠 AI Infrastructure
+
+🧠 RAG Pipelines
+
+🧠 MLOps
+```
 
 ---
 
@@ -181,20 +315,43 @@ Deployment:
 
 <div align="center">
 
-```
-while(alive){
+```python
+class AIEngineer:
 
-    Learn();
+    def __init__(self):
+        self.name = "Akshaya R"
 
-    Build();
+    def daily_routine(self):
 
-    Improve();
+        while True:
 
-    Repeat();
+            self.learn()
 
-}
+            self.build()
+
+            self.debug()
+
+            self.deploy()
+
+            self.repeat()
+
+    def mission(self):
+        return "Creating intelligent systems for real-world impact."
+
+
+engineer = AIEngineer()
+
+print(engineer.mission())
 ```
 
 </div>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2C5364,50:203A43,100:0F2027"/>
