@@ -1,87 +1,116 @@
-# Building Intelligent Systems That Work in the Real World
+<div align="center">
 
-I am a **4th-year Artificial Intelligence and Data Science student** driven by a deep interest in **Generative AI, Quantum Computing, and offline-first intelligent systems**. My focus is on designing AI solutions that are **practical, privacy-aware, and accessible**, especially in environments with limited connectivity and resources.
+# Akshaya R
 
-I enjoy working at the intersection of **AI research and product development**, transforming complex ideas into usable software that solves real problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=650&lines=%3E+initializing+AI+engine...;%3E+loading+machine+learning+models...;%3E+starting+agentic+systems...;%3E+ready+to+build+the+future." />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+```python
+class AkshayaR:
+    """
+    AI Engineer in progress.
+    Building intelligent applications
+    that solve real-world problems.
+    """
+
+    role = "AI & Data Science Student"
+
+    focus = [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Agentic AI",
+        "Generative AI"
+    ]
+
+    languages = [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Java",
+        "C",
+        "SQL"
+    ]
+
+    frameworks = [
+        "PyTorch",
+        "TensorFlow",
+        "FastAPI",
+        "React",
+        "Flutter",
+        "Django"
+    ]
+
+    tools = [
+        "Git",
+        "Docker",
+        "Linux",
+        "Firebase",
+        "MySQL",
+        "PostgreSQL"
+    ]
+
+    projects = [
+        "AI Teaching Assistant",
+        "Voice AI Agents",
+        "Computer Vision Systems",
+        "LLM Applications",
+        "RAG Pipelines",
+        "Automation Tools"
+    ]
+
+    learning = [
+        "Multi-Agent Systems",
+        "LLM Fine-Tuning",
+        "AI Infrastructure",
+        "MLOps"
+    ]
+
+    def mission(self):
+        return "Build AI that is practical, accessible, and impactful."
+
+
+me = AkshayaR()
+
+print(me.mission())
+```
+
+<div align="center">
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,django,react,flutter,nodejs,mysql,postgres,firebase,docker,git,linux,vscode"/>
 
 ---
 
-## 🎓 About Me
+## Current Status
 
-- 🔬 Exploring **Quantum Machine Learning** and **Tensor Networks**
-- 🤖 Building **offline and edge-based AI systems**
-- 📚 Currently pursuing my degree at **SIMAT**
-- 🌱 Actively learning **Large Language Models (LLMs)**, **NLP**, and **Edge AI**
-- 💡 Interested in **IoT**, **Biosecurity Systems**, **AI Optimization**, and **Sustainable Tech**
-- 🚀 Passionate about research-driven, impact-focused innovation
+🧠 Building AI-powered applications
 
----
+🚀 Exploring Agentic AI & LLMs
 
-## 🚀 Projects
+👁️ Developing Computer Vision projects
 
-### 🧠 3Ducation
-*An interactive learning platform designed to improve conceptual understanding through 3D visualization.*
-
-**Focus Areas:**
-- Visual learning for complex concepts
-- Student-friendly, immersive education
+📚 Learning scalable AI systems
 
 ---
 
+## Connect
 
-### ☀️ EcoInnovators – Solar Audit
-*An AI-based rooftop solar verification and audit system for sustainable energy governance.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya-r-92a062298/))
 
-**Focus Areas:**
-- Remote rooftop solar detection
-- AI-assisted audit pipeline
-- Low-cost, scalable governance solution
-- Designed for real-world deployment scenarios
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO)
 
-### ✒️ LitLoom
-*A desktop application for writing, analyzing, and enhancing poetry.*
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayar9702@gmail.com)
 
-**Tech Stack:**  
-`Python` · `Tkinter` · `NLTK` · `ReportLab` · `Deep-Translator`
-
-**Key Features:**
-- Rhyme scheme detection
-- Sentiment and tone analysis
-- Figure of speech identification
-- Text-to-speech and PDF export
-
-**Role:** Lead Developer
+</div>
 
 ---
 
-## 🛠️ Technical Skills
-
-### 🔤 Programming Languages
-- Python  
-- React
-- CSS
-
-### 🤖 AI / ML & Data Science
-- TensorFlow  
-- PyTorch  
-- scikit-learn  
-
-### 💻 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-
----
-
-## 🌱 Current Focus
-
-- Offline & Edge AI systems
-- Generative AI applications
-- Research-oriented AI projects
-- Sustainable and socially impactful technology
-- Educational field AI project development
-
----
-
-📌 *Open to collaboration, research discussions, internships, and innovative project ideas.*
+> *"Building intelligent systems that solve real problems, one model at a time."*
