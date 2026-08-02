@@ -236,37 +236,8 @@ Tools:
 ```
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akshaya2720&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya2720&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Summary
-
-<p align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshaya2720&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Repository Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshaya2720&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshaya2720&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -282,69 +253,7 @@ Tools:
 
 ---
 
-# 🚀 Current Focus
 
-```text
-🧠 Building AI Teaching Platform
-
-🤖 Developing Agentic AI Systems
-
-🎙️ Creating Voice AI Assistants
-
-👁️ Working on Computer Vision
-
-📚 Exploring Large Language Models
-
-⚙️ Building AI-powered Full Stack Apps
-```
-
----
-
-# 💻 Development Environment
-
-```yaml
-Operating System:
-  - Linux
-  - Windows
-
-Languages:
-  - Python
-  - JavaScript
-  - TypeScript
-  - SQL
-
-Frameworks:
-  - FastAPI
-  - Django
-  - React
-  - Flutter
-
-Artificial Intelligence:
-  - TensorFlow
-  - PyTorch
-  - OpenCV
-  - Hugging Face
-  - LangChain
-
-Tools:
-  - Git
-  - Docker
-  - Firebase
-  - VS Code
-```
-
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Teaching Platform | AI tutor with stories, quizzes and multilingual support |
-| 🎙️ AI Voice Assistant | Real-time conversational AI assistant |
-| 👁️ DeepSolar Guard | Solar panel detection using Computer Vision |
-| 📚 LitLoom | NLP-based literary analysis platform |
-| 🚗 ParkXplore | Smart parking detection using YOLO |
-| 🌊 Coastal Guardian | AI disaster prediction system |
 
 ---
 
@@ -366,7 +275,7 @@ Tools:
 
 ---
 
-<div align="center">
+<div align="left">
 
 ```python
 class AIEngineer:
