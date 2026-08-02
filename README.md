@@ -234,79 +234,132 @@ Tools:
   - VS Code
   - Firebase
 ```
-
 ---
 
-# GITHUB ANALYTICS
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshaya2720&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akshaya2720&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya2720&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya2720&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# CONTRIBUTION STREAK
+# 📈 GitHub Summary
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Akshaya2720&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshaya2720&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# ACHIEVEMENTS
+# ⚡ Repository Statistics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akshaya2720&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=4"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshaya2720&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshaya2720&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# RECENT ACTIVITY
+# 📊 GitHub Insights
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaya2720&theme=tokyo-night&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshaya2720&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshaya2720&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
 ---
 
-# CURRENTLY LEARNING
+# 🚀 Current Focus
 
 ```text
-🧠 Agentic AI
+🧠 Building AI Teaching Platform
 
-🧠 Multi-Agent Systems
+🤖 Developing Agentic AI Systems
 
-🧠 Large Language Models
+🎙️ Creating Voice AI Assistants
 
-🧠 AI Infrastructure
+👁️ Working on Computer Vision
 
-🧠 RAG Pipelines
+📚 Exploring Large Language Models
 
-🧠 MLOps
+⚙️ Building AI-powered Full Stack Apps
 ```
 
 ---
 
-# CONNECT
+# 💻 Development Environment
+
+```yaml
+Operating System:
+  - Linux
+  - Windows
+
+Languages:
+  - Python
+  - JavaScript
+  - TypeScript
+  - SQL
+
+Frameworks:
+  - FastAPI
+  - Django
+  - React
+  - Flutter
+
+Artificial Intelligence:
+  - TensorFlow
+  - PyTorch
+  - OpenCV
+  - Hugging Face
+  - LangChain
+
+Tools:
+  - Git
+  - Docker
+  - Firebase
+  - VS Code
+```
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Teaching Platform | AI tutor with stories, quizzes and multilingual support |
+| 🎙️ AI Voice Assistant | Real-time conversational AI assistant |
+| 👁️ DeepSolar Guard | Solar panel detection using Computer Vision |
+| 📚 LitLoom | NLP-based literary analysis platform |
+| 🚗 ParkXplore | Smart parking detection using YOLO |
+| 🌊 Coastal Guardian | AI disaster prediction system |
+
+---
+
+# 🌐 Connect
 
 <p align="center">
 
 <a href="https://github.com/Akshaya2720">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/akshaya-r-92a062298/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 </p>
@@ -320,28 +373,26 @@ class AIEngineer:
 
     def __init__(self):
         self.name = "Akshaya R"
+        self.role = "AI Engineer"
 
-    def daily_routine(self):
-
-        while True:
-
-            self.learn()
-
-            self.build()
-
-            self.debug()
-
-            self.deploy()
-
-            self.repeat()
+    def build(self):
+        return [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Agentic AI",
+            "LLMs",
+            "Full Stack AI"
+        ]
 
     def mission(self):
-        return "Creating intelligent systems for real-world impact."
+        return "Transforming ideas into intelligent systems."
 
 
-engineer = AIEngineer()
+if __name__ == "__main__":
+    me = AIEngineer()
 
-print(engineer.mission())
+    print(me.mission())
 ```
 
 </div>
@@ -350,8 +401,6 @@ print(engineer.mission())
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2C5364,50:203A43,100:0F2027"/>
