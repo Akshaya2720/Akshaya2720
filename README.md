@@ -1,96 +1,300 @@
-<!--
-  Profile README for github.com/Akshaya2720
-  Keep assets/neural-garden-command-center.png when publishing this repository.
--->
+<div align="center">
 
-<p align="center">
-  <img src="assets/neural-garden-command-center.png" alt="Neural Garden Command Center — a luminous data tree growing from an AI workstation" width="100%" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=AKSHAYA%20R&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&animation=fadeIn"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=900&color=64D9FF&center=true&vCenter=true&width=820&lines=AKSHAYA+R+%E2%80%94+NEURAL+GARDEN+COMMAND+CENTER;AI+%26+Data+Science+Student+%7C+Applied+AI+Builder;Growing+ideas+into+intelligent%2C+useful+systems." alt="Animated introduction" />
-</p>
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshaya-r-92a062298/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Akshaya2720?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-101B2D?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Akshaya2720&style=flat-square&color=6A5CFF&label=profile+views" alt="Profile views" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Neural+Core+Initialized...;Loading+Machine+Learning+Models...;Connecting+Large+Language+Models...;Launching+Agentic+AI+Systems...;Status+%3A+ONLINE"/>
+
+<br>
+
+<a href="https://github.com/Akshaya2720">
+<img src="https://img.shields.io/github/followers/Akshaya2720?logo=github&style=for-the-badge&color=181717"/>
+</a>
+
+<a href="https://github.com/Akshaya2720">
+<img src="https://img.shields.io/github/stars/Akshaya2720?affiliations=OWNER&style=for-the-badge&color=blue"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akshaya-r-92a062298/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Akshaya2720&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
-## ◌ System profile
+# AI SYSTEM STATUS
 
-```yaml
-operator: Akshaya R
-domain: AI Engineering + Data Science
-operating_mode: learn → build → ship → improve
-mission: Make advanced AI feel useful, understandable, and human.
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Developer      :: Akshaya R
+
+Role           :: AI Engineer
+
+Education      :: B.Tech AI & Data Science
+
+Status         :: BUILDING
+
+Current Mode   :: Learning • Building • Shipping
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-I’m a fourth-year AI & Data Science student interested in the space where thoughtful engineering meets real-world impact. I build systems that can see, listen, understand language, and help people learn—then shape them into experiences people can actually use.
+---
 
-## ✦ The garden is growing
+# SYSTEM MODULES
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🌱 Learn</h3>
-      <p>Going deeper into machine learning, deep learning, LLMs, RAG, and agentic workflows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🪴 Build</h3>
-      <p>Turning AI capabilities into end-to-end products with APIs, interfaces, voice, and data.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>✨ Share</h3>
-      <p>Documenting experiments, improving in public, and collaborating on useful ideas.</p>
-    </td>
-  </tr>
-</table>
+```yaml
+AI:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - NLP
+  - LLMs
+  - Agentic AI
 
-## ⌁ Current constellations
+Software:
+  - FastAPI
+  - Django
+  - React
+  - Flutter
 
-| Project | What it explores | Core tools |
-| :-- | :-- | :-- |
-| 🤖 **AI Teaching Platform** | Story-led explanations, quizzes, multilingual learning, and voice interaction | `Python` · `FastAPI` · `React` · `LLMs` |
-| 🎙️ **AI Voice Assistant** | A live conversational assistant powered by speech and LLM workflows | `Whisper` · `Gemini` · `FastAPI` |
-| 👁️ [**DeepSolar Guard**](https://github.com/Akshaya2720/DeepSolar-Guard) | Detecting rooftop solar panels in satellite imagery | `YOLO` · `OpenCV` · `PyTorch` |
-| 📚 [**LitLoom**](https://github.com/Akshaya2720/Litloom) | Literary analysis, sentiment, part-of-speech tagging, and text understanding | `Transformers` · `NLTK` · `Python` |
+Databases:
+  - MySQL
+  - PostgreSQL
+  - Firebase
 
-## ⟡ The tools behind the work
+Deployment:
+  - Docker
+  - Linux
+  - GitHub
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,django,flutter,tensorflow,pytorch,opencv,mysql,postgres,firebase,docker,git,linux&perline=16" alt="Python, JavaScript, TypeScript, React, FastAPI, Django, Flutter, TensorFlow, PyTorch, OpenCV, MySQL, PostgreSQL, Firebase, Docker, Git, and Linux" />
-</p>
+---
 
-<details>
-  <summary><b>Open the full toolkit</b></summary>
-  <br />
-
-  - **AI & data:** TensorFlow, PyTorch, Hugging Face, LangChain, OpenCV
-  - **Product engineering:** FastAPI, Django, React, Flutter
-  - **Data & infrastructure:** MySQL, PostgreSQL, Firebase, Docker, Linux, Git
-</details>
-
-## ◒ Signal dashboard
+# TECH STACK
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akshaya2720&show_icons=true&hide_border=true&bg_color=07111F&title_color=64D9FF&text_color=D6E4F0&icon_color=A78BFA" alt="Akshaya's GitHub statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Akshaya2720&hide_border=true&background=07111F&ring=64D9FF&fire=A78BFA&currStreakLabel=64D9FF&sideLabels=D6E4F0&dates=8AA3B8" alt="Akshaya's GitHub contribution streak" />
-</p>
 
-<p align="center">
-  <img width="86%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaya2720&bg_color=07111F&color=D6E4F0&line=6A5CFF&point=64D9FF&area=true&area_color=1D4E89&hide_border=true" alt="Akshaya's GitHub contribution activity" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,django,react,nextjs,nodejs,flutter,mysql,postgres,firebase,docker,git,linux,vscode"/>
+
 </p>
 
 ---
 
-<p align="center">
-  <i>Good systems begin as small experiments.</i><br />
-  <sub>Open to meaningful AI projects, learning opportunities, and builder conversations.</sub>
+# CURRENT MISSION
+
+```text
+[✓] AI Teaching Platform
+
+[✓] Voice AI Assistant
+
+[✓] Agentic AI Applications
+
+[✓] Computer Vision Projects
+
+[✓] RAG Pipelines
+
+[✓] AI Automation
+
+[ ] Startup
+```
+
+---
+
+# PROJECT MAP
+
+```text
+                    AI
+
+          ┌─────────┼─────────┐
+
+      Vision      NLP      Agents
+
+         │          │          │
+
+ DeepSolar    LitLoom    AI Tutor
+
+         │          │          │
+
+      Detection  Analysis  Voice AI
+
+```
+
+---
+
+# PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Teaching Platform
+
+AI-powered education platform that explains concepts using stories, quizzes, multilingual support and voice interaction.
+
+**Tech**
+
+`Python` `FastAPI` `React` `LLMs`
+
+</td>
+
+<td width="50%">
+
+### 🎙️ AI Voice Assistant
+
+Real-time AI assistant capable of answering questions during live conversations using LLMs.
+
+**Tech**
+
+`Python` `Whisper` `Gemini` `FastAPI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👁️ DeepSolar Guard
+
+Computer Vision system that detects rooftop solar panels using satellite imagery.
+
+**Tech**
+
+`YOLO` `OpenCV` `PyTorch`
+
+</td>
+
+<td width="50%">
+
+### 📚 LitLoom
+
+NLP platform for literary analysis, sentiment analysis, PoS tagging and text understanding.
+
+**Tech**
+
+`Transformers` `NLTK` `Python`
+
+</td>
+</tr>
+</table>
+
+---
+
+# AI DASHBOARD
+
+```text
+╔════════════════════════════════════════════════════╗
+║                AI COMMAND CENTER                  ║
+╠════════════════════════════════════════════════════╣
+║ Machine Learning          ████████████████ 100%   ║
+║ Deep Learning             ██████████████░  90%    ║
+║ Computer Vision           █████████████░░  85%    ║
+║ NLP                       ████████████░░░  80%    ║
+║ Agentic AI                ███████████░░░░  75%    ║
+║ Flutter                   █████████░░░░░░  65%    ║
+╚════════════════════════════════════════════════════╝
+```
+
+---
+
+# DEVELOPMENT ENVIRONMENT
+
+```yaml
+OS:
+  - Linux
+  - Windows
+
+Languages:
+  - Python
+  - JavaScript
+  - TypeScript
+  - SQL
+
+Frameworks:
+  - FastAPI
+  - Django
+  - React
+  - Flutter
+
+AI:
+  - TensorFlow
+  - PyTorch
+  - OpenCV
+  - HuggingFace
+  - LangChain
+
+Tools:
+  - Docker
+  - Git
+  - VS Code
+  - Firebase
+```
+---
+
+
+
+
+---
+
+
+# 🌐 Connect
+
+<p align="left">
+
+<a href="https://github.com/Akshaya2720">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/akshaya-r-92a062298/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
 </p>
 
+---
+
+<div align="left">
+
+```python
+class AIEngineer:
+
+    def __init__(self):
+        self.name = "Akshaya R"
+        self.role = "AI Engineer"
+
+    def build(self):
+        return [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Agentic AI",
+            "LLMs",
+            "Full Stack AI"
+        ]
+
+    def mission(self):
+        return "Transforming ideas into intelligent systems."
+
+
+if __name__ == "__main__":
+    me = AIEngineer()
+
+    print(me.mission())
+```
+
+</div>
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07111F,50:253C61,100:6A5CFF&height=3&section=footer" width="100%" alt="" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+
 </p>
