@@ -1,86 +1,300 @@
-<!-- Profile README for github.com/Akshaya2720 -->
+<div align="center">
 
-<p align="center">
-  <img src="assets/thought-forge.svg" width="100%" alt="Akshaya's Thought Forge — animated AI idea reactor" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=AKSHAYA%20R&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&animation=fadeIn"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshaya-r-92a062298/"><img src="https://img.shields.io/badge/LinkedIn-connect-66E0FF?style=flat-square&logo=linkedin&logoColor=07111F&labelColor=07111F" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/Akshaya2720?tab=repositories"><img src="https://img.shields.io/badge/12%20repositories-explore-9B7BFF?style=flat-square&logo=github&logoColor=ffffff&labelColor=07111F" alt="Explore repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Akshaya2720&style=flat-square&color=64D9FF&label=signals+received" alt="Profile views" />
-</p>
+<br>
 
-## `whoami`
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Neural+Core+Initialized...;Loading+Machine+Learning+Models...;Connecting+Large+Language+Models...;Launching+Agentic+AI+Systems...;Status+%3A+ONLINE"/>
+
+<br>
+
+<a href="https://github.com/Akshaya2720">
+<img src="https://img.shields.io/github/followers/Akshaya2720?logo=github&style=for-the-badge&color=181717"/>
+</a>
+
+<a href="https://github.com/Akshaya2720">
+<img src="https://img.shields.io/github/stars/Akshaya2720?affiliations=OWNER&style=for-the-badge&color=blue"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akshaya-r-92a062298/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Akshaya2720&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+# AI SYSTEM STATUS
 
 ```text
-Akshaya R  ·  4th-year AI & Data Science student
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-I collect interesting problems, trace their patterns,
-and build intelligent systems that make the next step clearer.
+Developer      :: Akshaya R
+
+Role           :: AI Engineer
+
+Education      :: B.Tech AI & Data Science
+
+Status         :: BUILDING
+
+Current Mode   :: Learning • Building • Shipping
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-I’m drawn to the point where machine learning becomes genuinely useful: a model that can see, a voice interface that can help, a learning tool that makes a difficult idea click. My work moves between computer vision, language systems, AI agents, and the product engineering that gives them a home.
+---
 
-## The three signals I’m tuning
+# SYSTEM MODULES
+
+```yaml
+AI:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - NLP
+  - LLMs
+  - Agentic AI
+
+Software:
+  - FastAPI
+  - Django
+  - React
+  - Flutter
+
+Databases:
+  - MySQL
+  - PostgreSQL
+  - Firebase
+
+Deployment:
+  - Docker
+  - Linux
+  - GitHub
+```
+
+---
+
+# TECH STACK
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,django,react,nextjs,nodejs,flutter,mysql,postgres,firebase,docker,git,linux,vscode"/>
+
+</p>
+
+---
+
+# CURRENT MISSION
+
+```text
+[✓] AI Teaching Platform
+
+[✓] Voice AI Assistant
+
+[✓] Agentic AI Applications
+
+[✓] Computer Vision Projects
+
+[✓] RAG Pipelines
+
+[✓] AI Automation
+
+[ ] Startup
+```
+
+---
+
+# PROJECT MAP
+
+```text
+                    AI
+
+          ┌─────────┼─────────┐
+
+      Vision      NLP      Agents
+
+         │          │          │
+
+ DeepSolar    LitLoom    AI Tutor
+
+         │          │          │
+
+      Detection  Analysis  Voice AI
+
+```
+
+---
+
+# PROJECTS
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>◈ Vision</h3>
-      <p>Teaching machines to notice meaningful patterns in images and the physical world.</p>
-      <sub>YOLO · OpenCV · PyTorch</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>◌ Voice &amp; language</h3>
-      <p>Building systems that listen, respond, explain, and make language more useful.</p>
-      <sub>Whisper · Transformers · LLMs</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>✦ Agentic systems</h3>
-      <p>Shaping focused AI workflows that turn context into an intelligent next action.</p>
-      <sub>FastAPI · RAG · React</sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🤖 AI Teaching Platform
+
+AI-powered education platform that explains concepts using stories, quizzes, multilingual support and voice interaction.
+
+**Tech**
+
+`Python` `FastAPI` `React` `LLMs`
+
+</td>
+
+<td width="50%">
+
+### 🎙️ AI Voice Assistant
+
+Real-time AI assistant capable of answering questions during live conversations using LLMs.
+
+**Tech**
+
+`Python` `Whisper` `Gemini` `FastAPI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👁️ DeepSolar Guard
+
+Computer Vision system that detects rooftop solar panels using satellite imagery.
+
+**Tech**
+
+`YOLO` `OpenCV` `PyTorch`
+
+</td>
+
+<td width="50%">
+
+### 📚 LitLoom
+
+NLP platform for literary analysis, sentiment analysis, PoS tagging and text understanding.
+
+**Tech**
+
+`Transformers` `NLTK` `Python`
+
+</td>
+</tr>
 </table>
 
-## Things currently in the forge
+---
 
-| Signal | Experiment | Why it matters |
-| :-- | :-- | :-- |
-| `EDU-01` | **AI Teaching Platform** | Stories, quizzes, multilingual support, and voice interaction for more engaging learning. |
-| `VOICE-02` | **AI Voice Assistant** | Real-time answers in live conversations, joining speech recognition with LLM reasoning. |
-| `VISION-03` | [**DeepSolar Guard**](https://github.com/Akshaya2720/DeepSolar-Guard) | Detecting rooftop solar panels from satellite imagery. |
-| `TEXT-04` | [**LitLoom**](https://github.com/Akshaya2720/Litloom) | Literary analysis, sentiment, PoS tagging, and text understanding. |
+# AI DASHBOARD
 
-## My build palette
+```text
+╔════════════════════════════════════════════════════╗
+║                AI COMMAND CENTER                  ║
+╠════════════════════════════════════════════════════╣
+║ Machine Learning          ████████████████ 100%   ║
+║ Deep Learning             ██████████████░  90%    ║
+║ Computer Vision           █████████████░░  85%    ║
+║ NLP                       ████████████░░░  80%    ║
+║ Agentic AI                ███████████░░░░  75%    ║
+║ Flutter                   █████████░░░░░░  65%    ║
+╚════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,django,flutter,tensorflow,pytorch,opencv,mysql,postgres,firebase,docker,git,linux&perline=16" alt="Technology stack" />
+---
+
+# DEVELOPMENT ENVIRONMENT
+
+```yaml
+OS:
+  - Linux
+  - Windows
+
+Languages:
+  - Python
+  - JavaScript
+  - TypeScript
+  - SQL
+
+Frameworks:
+  - FastAPI
+  - Django
+  - React
+  - Flutter
+
+AI:
+  - TensorFlow
+  - PyTorch
+  - OpenCV
+  - HuggingFace
+  - LangChain
+
+Tools:
+  - Docker
+  - Git
+  - VS Code
+  - Firebase
+```
+---
+
+
+
+
+---
+
+
+# 🌐 Connect
+
+<p align="left">
+
+<a href="https://github.com/Akshaya2720">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/akshaya-r-92a062298/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
 </p>
 
-<details>
-  <summary><b>Open the stack map</b></summary>
-  <br />
+---
 
-  | Layer | Tools |
-  | :-- | :-- |
-  | Intelligence | TensorFlow, PyTorch, Hugging Face, LangChain, OpenCV |
-  | Interfaces | React, Flutter, JavaScript, TypeScript |
-  | Services | Python, FastAPI, Django, Firebase |
-  | Foundations | MySQL, PostgreSQL, Docker, Linux, Git |
-</details>
+<div align="left">
 
-## Motion log
+```python
+class AIEngineer:
+
+    def __init__(self):
+        self.name = "Akshaya R"
+        self.role = "AI Engineer"
+
+    def build(self):
+        return [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Agentic AI",
+            "LLMs",
+            "Full Stack AI"
+        ]
+
+    def mission(self):
+        return "Transforming ideas into intelligent systems."
+
+
+if __name__ == "__main__":
+    me = AIEngineer()
+
+    print(me.mission())
+```
+
+</div>
+
+---
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akshaya2720&show_icons=true&hide_border=true&bg_color=07111F&title_color=66E0FF&text_color=D6E4F0&icon_color=9B7BFF" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Akshaya2720&hide_border=true&background=07111F&ring=66E0FF&fire=9B7BFF&currStreakLabel=66E0FF&sideLabels=D6E4F0&dates=8AA3B8" alt="GitHub contribution streak" />
-</p>
 
-<p align="center">
-  <img width="86%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaya2720&bg_color=07111F&color=D6E4F0&line=9B7BFF&point=66E0FF&area=true&area_color=182D58&hide_border=true" alt="Contribution graph" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
 
-<p align="center">
-  <sub>Every project starts as a small signal worth following.</sub>
 </p>
