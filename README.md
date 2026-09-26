@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=AKSHAYA%20R&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&animation=fadeIn"/>
 
-<br>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Neural+Core+Initialized...;Loading+Machine+Learning+Models...;Connecting+Large+Language+Models...;Launching+Agentic+AI+Systems...;Status+%3A+ONLINE"/>
 
